@@ -2,6 +2,7 @@ import cv2
 from qreader import QReader
 import json
 
+
 qreader = QReader()
 
 img = cv2.imread('qr_order.png')
