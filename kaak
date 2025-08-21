@@ -1,0 +1,2 @@
+curl -fL -o /tmp/facere_base.onnx \
+  "https://huggingface.co/rizavelioglu/fashionfail/resolve/main/facere_base.onnx?download=true"
